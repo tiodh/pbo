@@ -1,0 +1,15 @@
+/Users/tiodh/Projects/PBO/TM05/TM05/bin/Debug/net7.0/TM05
+/Users/tiodh/Projects/PBO/TM05/TM05/bin/Debug/net7.0/TM05.deps.json
+/Users/tiodh/Projects/PBO/TM05/TM05/bin/Debug/net7.0/TM05.runtimeconfig.json
+/Users/tiodh/Projects/PBO/TM05/TM05/bin/Debug/net7.0/TM05.dll
+/Users/tiodh/Projects/PBO/TM05/TM05/bin/Debug/net7.0/TM05.pdb
+/Users/tiodh/Projects/PBO/TM05/TM05/obj/Debug/net7.0/TM05.csproj.AssemblyReference.cache
+/Users/tiodh/Projects/PBO/TM05/TM05/obj/Debug/net7.0/TM05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tiodh/Projects/PBO/TM05/TM05/obj/Debug/net7.0/TM05.AssemblyInfoInputs.cache
+/Users/tiodh/Projects/PBO/TM05/TM05/obj/Debug/net7.0/TM05.AssemblyInfo.cs
+/Users/tiodh/Projects/PBO/TM05/TM05/obj/Debug/net7.0/TM05.csproj.CoreCompileInputs.cache
+/Users/tiodh/Projects/PBO/TM05/TM05/obj/Debug/net7.0/TM05.dll
+/Users/tiodh/Projects/PBO/TM05/TM05/obj/Debug/net7.0/refint/TM05.dll
+/Users/tiodh/Projects/PBO/TM05/TM05/obj/Debug/net7.0/TM05.pdb
+/Users/tiodh/Projects/PBO/TM05/TM05/obj/Debug/net7.0/TM05.genruntimeconfig.cache
+/Users/tiodh/Projects/PBO/TM05/TM05/obj/Debug/net7.0/ref/TM05.dll
